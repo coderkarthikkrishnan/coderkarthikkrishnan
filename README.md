@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful web applic
 
 ## 🤝 Connect With Me
 
-- 🌐 [Portfolio Website](#) *(Coming Soon)*  
+- 🌐 [www.karthikkrishnan.dev](#)  
 - 📬 coderkarthik01@gmail.com
 
 ---
